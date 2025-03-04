@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there, I´m an Economics student in Argentina keeen on learning Big Data and programming
 <!--
 **juanitasojo/juanitasojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
